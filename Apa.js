@@ -1,7 +1,7 @@
-// name : Apa.js
-// version : 1.0.0
-// author:ped <pedclubsite@gmial.com>
-// date : 2016-09-25
+// name     : Apa.js
+// version  : 1.0.0
+// author   : ped <pedclubsite@gmial.com>
+// date     : 2016-08-25
 
 
 (function() {
